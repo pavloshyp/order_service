@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "94fd21c2c3adf6b973ea67acc102c5ed",
+    "content-hash": "54e2cd192e0193d73fd6b97e81798b50",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -1331,16 +1331,16 @@
         },
         {
             "name": "pavloshyp/product-management-bundle",
-            "version": "1.0.7",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pavloshyp/ProductManagementBundle.git",
-                "reference": "b4431a463b602588dd408b58213930c6c868bf25"
+                "reference": "26a83c98311a765020428eccfd2cde1d95e805d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pavloshyp/ProductManagementBundle/zipball/b4431a463b602588dd408b58213930c6c868bf25",
-                "reference": "b4431a463b602588dd408b58213930c6c868bf25",
+                "url": "https://api.github.com/repos/pavloshyp/ProductManagementBundle/zipball/26a83c98311a765020428eccfd2cde1d95e805d9",
+                "reference": "26a83c98311a765020428eccfd2cde1d95e805d9",
                 "shasum": ""
             },
             "require": {
@@ -1396,10 +1396,10 @@
             ],
             "description": "Product Management Bundle for Symfony projects.",
             "support": {
-                "source": "https://github.com/pavloshyp/ProductManagementBundle/tree/1.0.7",
+                "source": "https://github.com/pavloshyp/ProductManagementBundle/tree/1.0.0",
                 "issues": "https://github.com/pavloshyp/ProductManagementBundle/issues"
             },
-            "time": "2024-01-28T05:49:20+00:00"
+            "time": "2024-01-28T10:19:09+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
